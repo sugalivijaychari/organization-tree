@@ -1,0 +1,54 @@
+[
+  {
+    "nodeId": 1,
+    "nodeName": "GlobalCorp",
+    "nodeType": "organization",
+    "nodeColor": null,
+    "children": [
+      {
+        "nodeId": 2,
+        "nodeName": "New York Office",
+        "nodeType": "location",
+        "nodeColor": "#F6AF8E",
+        "children": [
+          {
+            "nodeId": 5,
+            "nodeName": "Marketing Department",
+            "nodeType": "department",
+            "nodeColor": "#F6ED8E",
+            "children": []
+          }
+        ]
+      },
+      {
+        "nodeId": 3,
+        "nodeName": "San Francisco Office",
+        "nodeType": "location",
+        "nodeColor": "#C3A5FF",
+        "children": [
+          {
+            "nodeId": 6,
+            "nodeName": "Alice",
+            "nodeType": "employee",
+            "nodeColor": null,
+            "children": []
+          },
+          {
+            "nodeId": 7,
+            "nodeName": "Bob",
+            "nodeType": "employee",
+            "nodeColor": null,
+            "children": []
+          },
+          {
+            "nodeId": 4,
+            "nodeName": "Engineering Department",
+            "nodeType": "department",
+            "nodeColor": "#B1D0A5",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]
